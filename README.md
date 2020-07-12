@@ -30,12 +30,16 @@ export default () => ({
                           "state management system" : ["VueX"]
                         }
             , "svelte"
-      ],
+      ] ,
+      webAssembly: [
+           "Blazor",
+           "Livewire"
+      ] ,
       css: ["materialize", "bootstrap", "vuetify"]
     },
     backEnd: {
       php: ["laravel", "symfony"],
-      node: ["express", "adonis", "nest"],
+      nodeJS: ["express", "adonis", "nest"],
       c#: ["ASP.NET API/MVC"],
       python:["django", "OpenCv]
       misc: ["adobe premiere pro", "linux"]

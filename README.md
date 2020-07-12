@@ -56,7 +56,7 @@ export default () => ({
 <a href="https://www.facebook.com/Dunkelheit.669"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a></div>
 ---
 
-⭐️ From [@NoubaaB](https://github.com/about-me)
+⭐️ From [@NoubaaB](https://github.com/NoubaaB)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/about-me)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/NoubaaB/NoubaaB)
 

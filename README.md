@@ -30,10 +30,11 @@ export default () => ({
                           "state management system" : ["VueX"]
                         }
             , "svelte"
+            , "Livewire"
+            
       ] ,
       webAssembly: [
            "Blazor",
-           "Livewire"
       ] ,
       css: ["materialize", "bootstrap", "vuetify"]
     },

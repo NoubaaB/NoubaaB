@@ -14,17 +14,17 @@ export default () => ({
   technologies: {
     frontEnd: {
       js: [
-            react:{
+            "react": {
                           "SSR" : ["Next.js"]
                           ,
                           "state management system" : ["Redux"]
                         }
-            , "angular":{
+            , "angular": {
                           "SSR" : ["Gatsby.js"]
                           ,
                           "state management system" : ["NGRX"]
                         }
-            , "vue":{
+            , "vue": {
                           "SSR" : ["Nuxt.js"]
                           ,
                           "state management system" : ["VueX"]

@@ -18,15 +18,15 @@ export default () => ({
             "react": {
                           "SSR" : ["Next.js"] ,
                           "state management system" : ["Redux"]
-                        }
+                     }
             , "angular": {
                           "SSR" : ["Gatsby.js"] ,
                           "state management system" : ["NGRX"]
-                        }
+                         }
             , "vue": {
                           "SSR" : ["Nuxt.js"] ,
                           "state management system" : ["VueX"]
-                        }
+                     }
             , "svelte"
             , "Livewire"
             

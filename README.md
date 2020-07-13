@@ -8,8 +8,9 @@ export default () => ({
   nationality: "Moroccan",
   pronouns: "He" | "Him",
   askMeAbout: [
-    "webdev", "back-end", "front-end", "MERN stack",
-    "MEVN Stack", "SEO naturel"
+    "webmaster", "webdev", "horizontal/vertical scaling",
+    "back-end", "front-end", "MERN stack",
+    "MEVN Stack", "SEO naturel" ,"load balancer"
   ],
   technologies: {
     frontEnd: {

@@ -51,7 +51,7 @@ export default () => ({
             "vue-Native
           ] ,
           c#: [
-            "xamarin form"
+            "xamarin"
           ]
     },
     machineLearning: ["tensorflow", "keras"],

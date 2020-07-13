@@ -45,13 +45,22 @@ export default () => ({
       python:["django", "OpenCv"] ,
       misc: ["adobe premiere pro", "linux"]
     },
+    mobile:{
+          js: [
+            "react-Native",
+            "vue-Native
+          ] ,
+          c#: [
+            "xamarin form"
+          ]
+    },
     machineLearning: ["tensorflow", "keras"],
     databases: [
-      "MSQL Server"
-      , "MySQL"
-      , "postgresql"
-      , "FireBase"
-      , "MongoDB"
+      "MSQL Server" ,
+       "MySQL"      ,
+       "postgresql" ,
+       "FireBase"   ,
+       "MongoDB"    ,
       ]
   },
   challenge: "I am working hard to master Competitive Programming" 

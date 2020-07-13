@@ -15,18 +15,15 @@ export default () => ({
     frontEnd: {
       js: [
             "react": {
-                          "SSR" : ["Next.js"]
-                          ,
+                          "SSR" : ["Next.js"] ,
                           "state management system" : ["Redux"]
                         }
             , "angular": {
-                          "SSR" : ["Gatsby.js"]
-                          ,
+                          "SSR" : ["Gatsby.js"] ,
                           "state management system" : ["NGRX"]
                         }
             , "vue": {
-                          "SSR" : ["Nuxt.js"]
-                          ,
+                          "SSR" : ["Nuxt.js"] ,
                           "state management system" : ["VueX"]
                         }
             , "svelte"
@@ -42,7 +39,7 @@ export default () => ({
       php: ["laravel", "symfony"] ,
       nodeJS: ["express", "adonis", "nest"] ,
       c#: ["ASP.NET API/MVC"] ,
-      python:["django", "OpenCv"] ,
+      python: ["django", "OpenCv"] ,
       misc: ["adobe premiere pro", "linux"]
     },
     mobile:{

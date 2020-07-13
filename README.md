@@ -46,7 +46,13 @@ export default () => ({
       misc: ["adobe premiere pro", "linux"]
     },
     machineLearning: ["tensorflow", "keras"],
-    databases: ["MSQL Server", "MySQL", "postgresql", "FireBase", "MongoDB"]
+    databases: [
+      "MSQL Server"
+      , "MySQL"
+      , "postgresql"
+      , "FireBase"
+      , "MongoDB"
+      ]
   },
   challenge: "I am working hard to master Competitive Programming" 
 });

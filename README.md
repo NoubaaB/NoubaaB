@@ -62,7 +62,14 @@ export default () => ({
       ]
   },
   challenge: "I am working hard to make something epic",
-  words:["patient", "ambition" ,"focus" ,"search" ,"learn" ,"sacrifice"]
+  words:[
+          "patient"   ,
+          "ambition"  ,
+          "focus"     ,
+          "search"    ,
+          "learn"     ,
+          "sacrifice"
+        ]
 });
 ```
 

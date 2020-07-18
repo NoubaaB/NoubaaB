@@ -61,7 +61,7 @@ export default () => ({
        "MongoDB"    ,
       ]
   },
-  challenge: "I am working hard to master Competitive Programming" 
+  challenge: "I am working hard to make something epic"
 });
 ```
 

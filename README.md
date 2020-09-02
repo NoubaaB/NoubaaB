@@ -52,6 +52,13 @@ export default () => ({
             "xamarin"
           ]
     },
+    desktop:[
+      "WPF C#",
+      "ASP.NET CORE WEB App + Electron.NET",
+      "Blazro + Electron.NET",
+      "Electron.JS"
+    ],
+    }
     machineLearning: ["tensorflow", "keras"],
     databases: [
       "MSQL Server" ,

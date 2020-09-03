@@ -56,7 +56,8 @@ export default () => ({
       "WPF C#",
       "ASP.NET CORE WEB App + Electron.NET",
       "Blazro + Electron.NET",
-      "Electron.JS"
+      "Electron.JS" ,
+      "laravel-electron"
     ],
     }
     machineLearning: ["tensorflow", "keras"],

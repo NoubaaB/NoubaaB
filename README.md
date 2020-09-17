@@ -15,24 +15,24 @@ export default () => ({
   technologies: {
     frontEnd: {
       js: [
-            "react": {
+            react: {
                           "SSR" : ["Next.js"] ,
                           "state management system" : ["Redux"]
                      }
-            , "angular": {
+            , angular: {
                           "SSR" : ["Gatsby.js"] ,
                           "state management system" : ["NGRX"]
                          }
-            , "vue": {
+            , vue: {
                           "SSR" : ["Nuxt.js"] ,
                           "state management system" : ["VueX"]
                      }
-            , "svelte"
-            , "Livewire"
+            , svelte
+            , Livewire
             
       ] ,
       webAssembly: [
-           "Blazor",
+           Blazor,
       ] ,
       css: ["materialize", "bootstrap", "vuetify"]
     },
@@ -48,7 +48,7 @@ export default () => ({
             "react-Native",
             "vue-Native
           ] ,
-          c#: [
+          C_sahrp: [
             "xamarin"
           ]
     },

@@ -39,7 +39,7 @@ export default () => ({
     backEnd: {
       php: ["laravel", "symfony"] ,
       nodeJS: ["express", "adonis", "nest"] ,
-      c#: ["ASP.NET API/MVC"] ,
+      C-sharp: ["ASP.NET API/MVC"] ,
       python: ["django", "OpenCv"] ,
       misc: ["adobe premiere pro", "linux"]
     },

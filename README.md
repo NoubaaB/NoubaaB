@@ -21,14 +21,14 @@ export default () => ({
                      }
             , angular: {
                           "SSR" : ["Gatsby.js"] ,
-                          "state management system" : ["NGRX"]
+                          "state management system" : ["NgRx"]
                          }
             , vue: {
                           "SSR" : ["Nuxt.js"] ,
-                          "state management system" : ["VueX"]
+                          "state management system" : ["Vuex"]
                      }
             , svelte
-            , Livewire
+            , livewire
             
       ] ,
       webAssembly: [

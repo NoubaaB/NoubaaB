@@ -60,16 +60,14 @@ export default () => ({
       "Electron.JS" ,
       "laravel-electron"
     ],
-    }
     machineLearning: ["tensorflow", "keras"],
     databases: [
        "SQL Server" ,
        "MySQL"      ,
        "postgresql" ,
        "FireBase"   ,
-       "MongoDB"    ,
-      ]
-  },
+       "MongoDB"    
+      ],
   challenge: "I am working hard to make something epic",
   words:[
           "patient"   ,
@@ -79,6 +77,7 @@ export default () => ({
           "learn"     ,
           "sacrifice"
         ]
+    }
 });
 ```
 

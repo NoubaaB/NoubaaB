@@ -8,9 +8,9 @@ export default () => ({
   nationality: "Moroccan",
   pronouns: "He" | "Him",
   askMeAbout: [
-    "webmaster", "webdev", "horizontal/vertical scaling",
+    "webmaster", "webdev", "Progressive Web Apps", "horizontal/vertical scaling",
     "back-end", "front-end", "MERN stack",
-    "MEVN Stack", "SEO naturel" ,"load balancer"
+    "MEVN stack", "SEO naturel" ,"load balancer"
   ],
   technologies: {
     frontEnd: {
@@ -46,7 +46,8 @@ export default () => ({
     mobile:{
           js: [
             "react-Native",
-            "vue-Native
+            "vue-Native",
+            "ionic-Vue"
           ] ,
           C_sahrp: [
             "xamarin"
@@ -62,7 +63,7 @@ export default () => ({
     }
     machineLearning: ["tensorflow", "keras"],
     databases: [
-      "MSQL Server" ,
+       "SQL Server" ,
        "MySQL"      ,
        "postgresql" ,
        "FireBase"   ,

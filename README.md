@@ -8,7 +8,7 @@ export default () => ({
   nationality: "Moroccan",
   pronouns: "He" | "Him",
   askMeAbout: [
-    "webmaster", "webdev", "Progressive Web Apps", "horizontal/vertical scaling",
+    "webmaster", "webdev", "Progressive Web App (PWA)", "Trusted Web Activity (TWA)", "horizontal/vertical scaling",
     "back-end", "front-end", "MERN stack",
     "MEVN stack", "SEO naturel" ,"load balancer"
   ],

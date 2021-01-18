@@ -42,7 +42,7 @@ export default () => ({
       php: ["laravel", "symfony"] ,
       nodeJS: ["express", "adonis", "nest"] ,
       C_sharp: ["ASP.NET API/MVC"] ,
-      python: ["django", "OpenCv"] ,
+      python: ["django", "flask"] ,
       misc: ["adobe premiere pro", "linux"]
     },
     mobile:{
@@ -62,7 +62,7 @@ export default () => ({
       "Electron.JS" ,
       "laravel-electron"
     ],
-    machineLearning: ["tensorflow", "keras"],
+    machineLearning: ["tensorflow", "keras","OpenCv"],
     databases: [
        "SQL Server" ,
        "MySQL"      ,

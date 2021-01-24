@@ -83,7 +83,7 @@ export default () => ({
 });
 ```
 
-<a href="mailto:bachirnoubaa117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bachirnoubaa117@gmail.com" alt="Gmail"></a>
+<a href="mailto:bachirnoubaa117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bachirnoubaa@gmail.com" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/bachir-noubaa/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/Dunkelheit.669"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a></div>
 ---

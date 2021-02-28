@@ -77,7 +77,8 @@ export default () => ({
           "focus"     ,
           "search"    ,
           "learn"     ,
-          "sacrifice"
+          "sacrifice" ,
+          "open-loop"
         ]
     }
 });

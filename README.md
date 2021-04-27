@@ -1,5 +1,5 @@
 <h2> Hi, I'm ELBACHIR NOUBAA! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
-<img align='right' src="https://user-images.githubusercontent.com/35571958/87239980-b3130b00-c432-11ea-9571-24c85defd75a.png" width="350" height = "300">
+<img align='right' src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" width="350" height = "300">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 

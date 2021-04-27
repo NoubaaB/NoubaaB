@@ -1,7 +1,7 @@
-<h2> Hi, I'm ELBACHIR NOUBAA! <img src="https://cliply.co/wp-content/uploads/2019/06/371906040_LIGHT_BULB_400px.gif" width="200"></h2>
+<h2> Hi, I'm ELBACHIR NOUBAA! <img src="https://cliply.co/wp-content/uploads/2019/06/371906040_LIGHT_BULB_400px.gif" width="100"></h2>
 <img align='right' src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" width="350" height = "300">
 
-### <img src="https://cliply.co/wp-content/uploads/2019/09/371909470_MEGAPHONE_400px.gif" width="200"> A little more about me...  
+### <img src="https://cliply.co/wp-content/uploads/2019/09/371909470_MEGAPHONE_400px.gif" width="100"> A little more about me...  
 
 ```js
 export default () => ({

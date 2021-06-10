@@ -11,7 +11,7 @@ export default () => ({
     "webmaster", "webdev",
     "Progressive Web App (PWA)", "Trusted Web Activity (TWA)",
     "horizontal/vertical scaling",
-    "back-end", "front-end", "MERN stack",
+    "back-end", "front-end", "LAMP stack", "MERN stack",
     "MEVN stack", "SEO naturel" ,"load balancer"
   ],
   technologies: {

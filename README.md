@@ -64,7 +64,7 @@ export default () => ({
       "Electron.JS" ,
       "laravel-electron"
     ],
-    machineLearning: ["tensorflow", "keras","OpenCv"],
+    machineLearning: ["tensorflow", "keras", "OpenCv"],
     databases: [
        "SQL Server" ,
        "MySQL"      ,
@@ -88,7 +88,7 @@ export default () => ({
 ```
 
 <a href="mailto:bachir@noubaa.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bachir@noubaa.com" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/bachir-noubaa/?originalSubdomain=in"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/bachir-noubaa/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/Dunkelheit.669"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a></div>
 ---
 

@@ -49,7 +49,8 @@ export default () => ({
           js: [
             "react-Native",
             "vue-Native",
-            "ionic-Vue"
+            "ionic-Vue",
+            "native-script"
           ] ,
           C_sahrp: [
             "xamarin"

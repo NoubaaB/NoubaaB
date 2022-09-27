@@ -12,7 +12,8 @@ export default () => ({
     "Progressive Web App (PWA)", "Trusted Web Activity (TWA)",
     "horizontal/vertical scaling",
     "back-end", "front-end", "LAMP stack", "MERN stack",
-    "MEVN stack", "SEO naturel" ,"load balancer"
+    "MEVN stack", "SEO naturel", "load balancer", "Docker",
+    "Kubernetes", "Jenkins"
   ],
   technologies: {
     frontEnd: {
@@ -69,7 +70,8 @@ export default () => ({
        "MySQL"      ,
        "postgresql" ,
        "FireBase"   ,
-       "MongoDB"    
+       "MongoDB"    ,
+       "Redis"      
       ],
   challenge: "I am working hard to make something epic",
   words:[

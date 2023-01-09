@@ -28,7 +28,7 @@ export default () => ({
                          }
             , vue: {
                           "SSR" : ["Nuxt.js"] ,
-                          "state management system" : ["Vuex"]
+                          "state management system" : ["Vuex","Pinia"]
                      }
             , svelte
             , livewire

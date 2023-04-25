@@ -37,7 +37,7 @@ export default () => ({
       webAssembly: [
            Blazor,
       ] ,
-      css: ["materialize", "bootstrap", "vuetify"]
+      css: ["Materialize", "Bootstrap", "Tailwind CSS", "Vuetify"]
     },
     backEnd: {
       php: ["laravel", "symfony"] ,
@@ -47,7 +47,7 @@ export default () => ({
       misc: ["adobe premiere pro", "linux"]
     },
     mobile:{
-          js: [
+          java_script: [
             "react-Native",
             "Flutter",
             "ionic-Vue",

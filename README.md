@@ -49,7 +49,7 @@ export default () => ({
     mobile:{
           js: [
             "react-Native",
-            "vue-Native",
+            "Flutter",
             "ionic-Vue",
             "NativeScript"
           ] ,
